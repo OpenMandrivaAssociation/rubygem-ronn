@@ -56,3 +56,10 @@ rm -rf %buildroot
 %{ruby_gemdir}/gems/%{oname}-%{version}/ronn.gemspec
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Wed Nov 03 2010 Rémy Clouard <shikamaru@mandriva.org> 0.7.3-1mdv2011.0
++ Revision: 592941
+- import rubygem-ronn
+

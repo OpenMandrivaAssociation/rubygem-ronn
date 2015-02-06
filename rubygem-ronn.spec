@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.7.3
-Release:    %mkrel 1
+Release:    2
 Summary:    Builds manuals
 Group:      Development/Ruby
 License:    MIT

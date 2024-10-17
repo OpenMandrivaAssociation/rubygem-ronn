@@ -6,7 +6,7 @@ Release:    2
 Summary:    Builds manuals
 Group:      Development/Ruby
 License:    MIT
-URL:        http://rtomayko.github.com/ronn
+URL:        https://rtomayko.github.com/ronn
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 Requires:   rubygems
